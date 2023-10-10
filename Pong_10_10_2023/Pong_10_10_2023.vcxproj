@@ -75,8 +75,8 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>D:\M03\M03_10_10_2023\libinclude\include;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\M03\M03_10_10_2023\libinclude\lib\x86;$(LibraryPath)</LibraryPath>
+    <IncludePath>..\libinclude\include;$(IncludePath)</IncludePath>
+    <LibraryPath>..\libinclude\lib\x86;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
