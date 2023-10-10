@@ -1,0 +1,3 @@
+﻿  pong.c
+D:\M03\M03_10_10_2023\Pong_10_10_2023\pong.c(696,12): warning C4013: 'strcmp' undefined; assuming extern returning int
+  Pong_10_10_2023.vcxproj -> D:\M03\M03_10_10_2023\Pong_10_10_2023\Debug\Pong_10_10_2023.exe

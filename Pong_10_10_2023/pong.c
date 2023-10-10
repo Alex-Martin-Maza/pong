@@ -19,7 +19,7 @@ typedef struct ball_s {
 } ball_t;
 
 typedef struct paddle {
-
+	
 	int x,y;
 	int w,h;
 } paddle_t;
